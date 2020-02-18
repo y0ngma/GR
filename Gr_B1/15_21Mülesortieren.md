@@ -28,6 +28,8 @@ Ansonsten helfen sie ihrer Ehegatte oder Partner nicht ferner.
 
 보통 모든 가족 구성원은 쓰레기 분리수거를 해야한다. 부모는 가족 구성원이 쓰레기통을 구성원 각자의 소유물처럼 다루도록 교육해야 한다. 그렇지 않으면 그들은 장차 그들의 배우자나 파트너를 도우지 않을 것이기 때문이다.
 
+
+
 Ausdruck|bedeutung
 ---|---
 Erstgeborene|장남
