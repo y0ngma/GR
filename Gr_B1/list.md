@@ -20,9 +20,10 @@ Ich machst Tenis.
 - ein Stunden
 - für gute 
 - fitness 헬스(웨이트)
-weil es einfach zu spielen ist und es kann viele 
+weil es einfach zu spielen ist und es kann viele
+# 17 Extremesport 
 # 18 Ohne Auto ins Stadzentrum
-# 19 Mit geswesten oder ohne geswester
+# 19 Mit Geschwisten oder ohne Geschwister
 was für ein Vorteil mit deinem älteren Bruder. ich kann abhängig von
 # 20 betreung Oma (to supervise, guide)
 - Hattest du keine Schwerigkeit mit deines Oma?
@@ -31,6 +32,8 @@ was für ein Vorteil mit deinem älteren Bruder. ich kann abhängig von
 wie oft sortirst du in 
 am bestimmenten Tag sortiert man in  meinem apart aber im anderen apart sortiert man am jeder Zeit
 # 22 wie lange sollten die kinder zu hause bleiben.(독립)
+Wann willst/möchest du deines Kind auszuziehen.
+je früher desto besser.
 wo möchest du allein 
 Wann willst/möchest du deines Kind auszuziehen.
 je früher desto besser.

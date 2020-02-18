@@ -69,7 +69,6 @@ abgespeichert sind 저장된
 werden 확실을 가진 추측(동사로 쓸때)
 das Gehirn뇌
 zeigen, was sie fühlen 표시하다
-613p174 숙제
 
 Ausleihe 대여
 notwendig 필수
@@ -136,14 +135,6 @@ nutzen Energie
 sammeln Alte Zeitungen wiederverwerten
 Die Luft, Landschaft nicht verschmutzen 오염
 dozen 캔
-
-쓰기1번
-182 숙제 (80자)
-자전거 선물 받음. 선물 묘사
-왜 특별히 기뻣는지 묘사
-투어가자 제안
-박스안의 내용 이용
-본문 참고 완성
 
 in einer zweiten Whonung. 두번째집
 vorbereiten 음식준비
