@@ -2,6 +2,7 @@
 ---
 # 1 Haustier
 aus gejetztete hunde adoptieren
+## 5 darf man in der mittag 
 # 6 Partnersuchen im Internet
 # 8 Haushaltsteilung
 - wie ich schon gesagt habe, die einstellung zuerst gegen uber die Haushaltsteilung geendet.
@@ -78,8 +79,8 @@ sozialennettwerken
 wie lange benutzst du die Handy am Tag
 ich benutze drei stunde am tag, ich es liebe Youtube zu sehen.
 ich unterhalte mich mit per Handy. 
+## 45 schule sport
 # 46 Contact Nachbarn
-
 - haltest du Contact mit deinen Nachbarn?
 - seit ich Student bin, 
 - weil ich nach Busan umgezogen bin.
