@@ -21,7 +21,9 @@ Ich machst Tenis.
 - für gute 
 - fitness 헬스(웨이트)
 weil es einfach zu spielen ist und es kann viele
-# 17 Extremesport 
+# 17 Extremesport
+was fur eine sportarten hast du gemacht?
+snowboard und fahrrad fahren haben mir viel spass gemacht 
 # 18 Ohne Auto ins Stadzentrum
 # 19 Mit Geschwisten oder ohne Geschwister
 was für ein Vorteil mit deinem älteren Bruder. ich kann abhängig von
@@ -53,6 +55,12 @@ Ich will Koreanischen Essen essen. z.B
 # 25 Getrennte Schule
 als du kind war, bilest du
 ich bin gleicher Meinung.
+absolvier_
+notwendig
+die gelegenheit ist gut, weil dass auch ein teil von leben ist.
+da hast du rechitig gesagt. aber schüler sich auf ihre lernen. also denke ich 
+das beste in der Schülezeit ist das Lernen.
+conzentrieren sich auf 
 # 26 Feste Feiern
 - Zu/auf was für einen Fest gehest du?
 - auf welschem feste warest du schon mal
@@ -66,6 +74,7 @@ ich bin gleicher Meinung.
 - wie ich schön gesagt habe, weil ich meisten Sneidigen Musik hören
 - ich habe nicht verstanden
 - kann ich englisch beim lernen hoeren??
+- weil ich Englisch lernen kann, mir gut gefaellt.
 # 32 Ist der Beruf am wichtigesten im Leben?
 - Magst du viel freizeit aber wenig Geld oder wenig Freizeit aber viel Geld
 - Ich will die Stelle mit ... weil ich viel freizeit haben möchte.
@@ -74,6 +83,12 @@ In dem Pakt möchte ich es sauber machen.
 # 36 누구나 영화를 할 수 있어야 하나    
 # 37 Wie viele Fremdsprachen soll man lernen
 - welche Sprache lernst du?
+- wenn ich 12 jahre alt war
+- was ist dein Grund, dass du deutsch lernst
+- weil ich mich für das Land, dessen Kultur interessiere, 
+# 40 allein zu leben. Wohngeschaft
+der grosseste Vorteil
+niemal befilt mir was ich machen soll
 # 42 Wie lange sollte man fernsehen? 
 ferngesehen
 ich habe die erfahrung 그런적(경험)있다
@@ -103,7 +118,8 @@ ich unterhalte mich mit per Handy.
 # 48 Jobben neben dem Studium
 Was für eineArbeit hast du gemacht?
 vertretung
-
+# 51 mit dem fahrrad zur arbeit
+# 54 Zu Hause lernen oder in Gruppen lernen
 # 55 Wie wichtig sind Soziellenetzwerke
 # 56 Urlaub im Inland oder ins Ausland
 - südosten asien 동남아시아

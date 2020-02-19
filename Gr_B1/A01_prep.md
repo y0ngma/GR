@@ -77,22 +77,19 @@ um A|Bei dem Verletzten **handelt** **es** **sich** um einen alten Mann|을 주�
 um A|Er **sorgt sich** um die Gesundheit seines Kindes|걱정하다
 um A|Wir **trauern** um den toten Freund|슬퍼하다
 
-
-
-Er **leidet** unter der Hitze (->an)
-
-abhängen|Meine Stimmung **hängt** vom Wetter **ab**
-sich trennen|Sie hat **sich** jetzt von ihrem Mann **getrennt**
-sich unterscheiden|Er **unterscheidet** **sich** nicht von seinem Zwillingsbruder
-sich verabschieden|Ich möchte **mich** von Ihnen **verabschieden**
-
-fliehen|Der Terrorist ist vor der Polizei **geflohen**
-sich fürchten|Die Kinder **fürchten** **sich** vor dem Gewitter
-schützen A|Die Eltern **schützen** ihre Kinder vor Gefahren
-warnen A|Man hat uns vor der Gefährlichkeit dieses Experiments **gewarnt**
-
-sich entschließen|Wir haben **uns** zur Abreise **entschlossen**
-gehören|Es **gehört** zu meinen Aufgaben, Protokoll zu führen
-gratulieren (*D*)|Ich **grauliere** dir zum Geburtstag
-überreden A|Ich möchte euch zum Mitkommen **überreden**
+1|2|3|4
+---|---|---|---
+unter D|Er **leidet** unter der Hitze (->an)|
+von D|abhängen|Meine Stimmung **hängt** vom Wetter **ab**|
+von D|sich trennen|Sie hat **sich** jetzt von ihrem Mann **getrennt**|
+von D|sich unterscheiden|Er **unterscheidet** **sich** nicht von seinem Zwillingsbruder|
+von D|sich verabschieden|Ich möchte **mich** von Ihnen **verabschieden**|
+vor D|fliehen|Der Terrorist ist vor der Polizei **geflohen**|
+vor D|sich fürchten|Die Kinder **fürchten** **sich** vor dem Gewitter|
+vor D|schützen A|Die Eltern **schützen** ihre Kinder vor Gefahren|
+vor D|warnen A|Man hat uns vor der Gefährlichkeit dieses Experiments **gewarnt**|
+zu D|sich entschließen|Wir haben **uns** zur Abreise **entschlossen**|
+zu D|gehören|Es **gehört** zu meinen Aufgaben, Protokoll zu führen|
+zu D|gratulieren (*D*)|Ich **grauliere** dir zum Geburtstag|
+zu D|überreden A|Ich möchte euch zum Mitkommen **überreden**|
 
