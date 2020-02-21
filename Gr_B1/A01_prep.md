@@ -45,51 +45,51 @@ gegen A|sich wenden|ich **wende mich gegen** die falschen Vorwürfe{reproach비�
 1|2|3|4
 ---|---|---|---
 in D|sich irren|Er hat sich im Datum **geirrt**|착각하다
-mit|verwechseln A|Ich habe sie mit ihrer Schwester **verwechselt**|혼돈하다
-mit|sich befassen|Wir haben **uns** lange mit diesem Thema **befasst**|~을 주제로 다루다
-mit|handeln|Mein Freund **handelt** mit Gebrauchtwagen|~을 판매하다
-mit|vergleichen A|Er **vergleicht** Rostock mit seiner Heimatstadt|~을 비교하다
-mit|aufhören|Sie **hörten** mit der Diskussion **auf**|그만두다 끝나다
-mit|zusammenstoßen|Das Auto **stieß** mit dem Zug **zusammen**|~와 충돌하다
-nach|sich erkundigen|Wir **erkundigen** **uns** nach der Abfahrt des Zuges|문의하다
-nach|fragen A|Der Tourist **fragte** einen Polizisten nach dem Weg{경찰,길을}|문의하다
-mit|sich beschäftigen|Sie **beschäftigt sich mit** moderner Musik|~에 몰두하다, 종사하다
-mit|beginnen|Wir **beginnen** mit einer Wiederholung{repetition}|시작하다
-mit|anfangen|Wir **fangen** mit der ersten Seite **an**|시작하다
-über|sich ängern|Ich **ärgere** **mich** über meine Fehler|~때문에 화내다
-über|sich aufregen|Ich **rege** **mich** über meine Chefin **auf**|흥분하다
-über|berichten|Die Zeugin berichtet über den Unfall|보도하다
-über|sich beschweren(bei)|Der Nachbar **beschwerte** **sich** **bei** mir über den Lärm|불평하다
-über|diskutieren|Die Studenten **diskutieren** miteinander über Politik|토론하다
-über|sich freuen|ich **freue** **mich** über das Geschenk(->auf)|기뻐하다
-über|sich informieren|Wir **informieren** **uns** über den Kurs des Dollers|정보를 얻다
-über|flagen|Der Kranke **klagt** über Schmerzen im Rücken|고통을 호소하다
-über|lachen|Über diesen Witz kann ich nicht **lachen**|(비)웃다
-über|nachdenken|Ich muss über das Problem **nachdenken**|심사숙고 하다
-über|sprechen (mit)|Wir haben über seine Studienpläne **gesprochen**|~대해 말하다
-über|sich unterhalten|Worüber habt ihr **euch** **unterhalten**|대화하다
-über|sich wundern|Ich **wundere** **mich** über die hohen Preise|놀라다
-um A|Ich **bemühe** **mich** seit langem um ein Zimmer|노력하다
-um A|Sie **Bewirbt** **sich** um einen besseren Arbeitsplat지원하다
-um A|Er hat mich um Geld **gebeten**|부탁하다
-um A|in diesem Text **geht** **es** um die Arbeitslosigkeit|~이 문제다, 을 다루다.
-um A|Bei dem Verletzten **handelt** **es** **sich** um einen alten Mann|을 주제로 다루다
-um A|Er **sorgt sich** um die Gesundheit seines Kindes|걱정하다
-um A|Wir **trauern** um den toten Freund|슬퍼하다
+mit D|verwechseln A|Ich habe sie mit ihrer Schwester **verwechselt**|혼돈하다
+mit D|sich befassen|Wir haben **uns** lange mit diesem Thema **befasst**|~을 주제로 다루다
+mit D|handeln|Mein Freund **handelt** mit Gebrauchtwagen|~을 판매하다
+mit D|vergleichen A|Er **vergleicht** Rostock mit seiner Heimatstadt|~을 비교하다
+mit D|aufhören|Sie **hörten** mit der Diskussion **auf**|그만두다 끝나다
+mit D|zusammenstoßen|Das Auto **stieß** mit dem Zug **zusammen**|~와 충돌하다
+nach D|sich erkundigen|Wir **erkundigen** **uns** nach der Abfahrt des Zuges|문의하다
+nach D|fragen A|Der Tourist **fragte** einen Polizisten nach dem Weg{경찰,길을}|문의하다
+mit D|sich beschäftigen|Sie **beschäftigt sich mit** moderner Musik|~에 몰두하다, 종사하다
+mit D|beginnen|Wir **beginnen** mit einer Wiederholung{repetition}|시작하다
+mit D|anfangen|Wir **fangen** mit der ersten Seite **an**|시작하다
+über A|sich ängern|Ich **ärgere** **mich** über meine Fehler|~때문에 화내다
+über A|sich aufregen|Ich **rege** **mich** über meine Chefin **auf**|흥분하다
+über A|berichten|Die Zeugin berichtet über den Unfall|보도하다
+über A|sich beschweren(bei)|Der Nachbar **beschwerte** **sich** **bei** mir über den Lärm|불평하다
+über A|diskutieren|Die Studenten **diskutieren** miteinander über Politik|토론하다
+über A|sich freuen|ich **freue** **mich** über das Geschenk(->auf)|기뻐하다
+über A|sich informieren|Wir **informieren** **uns** über den Kurs des Dollers|정보를 얻다
+über A|klagen|Der Kranke **klagt** über Schmerzen im Rücken|고통을 호소하다
+über A|lachen|Über diesen Witz kann ich nicht **lachen**|(비)웃다
+über A|nachdenken|Ich muss über das Problem **nachdenken**|심사숙고 하다
+über A|sprechen (mit)|Wir haben über seine Studienpläne **gesprochen**|~대해 말하다
+über A|sich unterhalten|Worüber habt ihr **euch** **unterhalten**|대화하다
+über A|sich wundern|Ich **wundere** **mich** über die hohen Preise|놀라다
+um A|sich bemühen|Ich **bemühe** **mich** seit langem um ein Zimmer|노력하다
+um A|sich bewerben|Sie **Bewirbt** **sich** um einen besseren Arbeitsplat|지원하다
+um A|bitten A|Er hat mich um Geld **gebeten**|부탁하다
+um A|es geht|in diesem Text **geht** **es** um die Arbeitslosigkeit|~이 문제다, 을 다루다.
+um A|es handelt sich|Bei dem Verletzten **handelt** **es** **sich** um einen alten Mann|을 주제로 다루다
+um A|sich sorgen|Er **sorgt sich** um die Gesundheit seines Kindes|걱정하다
+um A|trauern|Wir **trauern** um den toten Freund|슬퍼하다
 
 1|2|3|4
 ---|---|---|---
-unter D|Er **leidet** unter der Hitze (->an)|
-von D|abhängen|Meine Stimmung **hängt** vom Wetter **ab**|
-von D|sich trennen|Sie hat **sich** jetzt von ihrem Mann **getrennt**|
-von D|sich unterscheiden|Er **unterscheidet** **sich** nicht von seinem Zwillingsbruder|
-von D|sich verabschieden|Ich möchte **mich** von Ihnen **verabschieden**|
-vor D|fliehen|Der Terrorist ist vor der Polizei **geflohen**|
-vor D|sich fürchten|Die Kinder **fürchten** **sich** vor dem Gewitter|
-vor D|schützen A|Die Eltern **schützen** ihre Kinder vor Gefahren|
-vor D|warnen A|Man hat uns vor der Gefährlichkeit dieses Experiments **gewarnt**|
-zu D|sich entschließen|Wir haben **uns** zur Abreise **entschlossen**|
-zu D|gehören|Es **gehört** zu meinen Aufgaben, Protokoll zu führen|
-zu D|gratulieren (*D*)|Ich **grauliere** dir zum Geburtstag|
-zu D|überreden A|Ich möchte euch zum Mitkommen **überreden**|
+unter D|Er **leidet** unter der Hitze (->an)|(병이 아닌것으로)고통받다
+von D|abhängen|Meine Stimmung **hängt** vom Wetter **ab**|~에 의존하다
+von D|sich trennen|Sie hat **sich** jetzt von ihrem Mann **getrennt**|이별하다
+von D|sich unterscheiden|Er **unterscheidet** **sich** nicht von seinem Zwillingsbruder|구분하다
+von D|sich verabschieden|Ich möchte **mich** von Ihnen **verabschieden**|헤어지다
+vor D|fliehen|Der Terrorist ist vor der Polizei **geflohen**|도망가다
+vor D|sich fürchten|Die Kinder **fürchten** **sich** vor dem Gewitter{천둥}|두려워하다
+vor D|schützen A|Die Eltern **schützen** ihre Kinder vor Gefahren|보호하다
+vor D|warnen A|Man hat uns vor der Gefährlichkeit dieses Experiments **gewarnt**|경고하다
+zu D|sich entschließen|Wir haben **uns** zur Abreise **entschlossen**|결심하다
+zu D|gehören|Es **gehört** zu meinen Aufgaben, Protokoll{회의록minutes} zu führen|속하다
+zu D|gratulieren D|Ich **gratuliere** dir zum Geburtstag|축하하다
+zu D|überreden A|Ich möchte euch zum Mitkommen **überreden**|설득하다
 
