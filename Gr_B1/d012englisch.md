@@ -15,3 +15,5 @@ Aber es ist stimmt, dass Kinder im ihrem Leben doch die Sprache brauchen.
 Falls ihre Eltern erschwingen, um sie bis Kindergarten Englische zulernen, ist es besser so zutun.
 
 그들의 부모가 아이들을 유치원에서부터 영어를 배우게 할 형편이 된다면 그렇게 하는것이 낫다.
+
+Also sie erfahren alles mehr durch beide Sprachen. Und 
