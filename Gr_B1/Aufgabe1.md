@@ -42,20 +42,25 @@ wie wäre es am wochenende?
 wir haben viele Zeit 
 #### wo
 wo machen wir das Pickic?
-시민pakt
+in den Stadtpakt gehen wir
 
 #### verkehr
-Womit fahren wir uns? dorthin.
+Womit fahren wir dorthin.
 lass uns zu Fuß gehen, weil da in der Nähe ist.
 Mit meinem Auto fahren wir uns.
 #### was mit (도시락) wir nehmen
-Lass uns dem Lunchpaket mitnehmen.
-i bin gleicher meinung.
+김밥 등을 사가도 됨
+Lass uns dem Mittagessen oder Lunchbox mitnehmen.
+ich bin gleicher meinung.
 I will einen Eiskasten mitbringen um soju kalt zubleiben.
-decke돗자리
 
+decke돗자리 
+einige kursteilnehmerinnen trinken keine alkolische getränke wie ich. also ich besorge ein paar samt 쥬스
+dann 
 #### uberlaschung person (음악인 초대 깜짝)
 Kannst du ein person einladen?
+kennst du jemand? 아는 사람 있니?
+lass uns ihn einladen.
 überlaschung Musikspiel. 
 Eines meiner Freunde kann ein Geige(violin) spielen. 
 Also 
