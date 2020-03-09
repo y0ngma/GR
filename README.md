@@ -1,7 +1,7 @@
-# Learning German Language
+## Learning German Language
 - B1 lvl study
 ---
 
-## Essay
-## Dialog themes
-## Vocaburary
+### Essay
+### Dialog themes
+### Vocaburary
