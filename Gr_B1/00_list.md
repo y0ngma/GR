@@ -21,6 +21,7 @@ Ich machst Tenis.
 - für gute 
 - fitness 헬스(웨이트)
 weil es einfach zu spielen ist und es kann viele
+# 16 Einkaufszentrum
 # 17 Extremesport
 was fur eine sportarten hast du gemacht?
 snowboard und fahrrad fahren haben mir viel spass gemacht 

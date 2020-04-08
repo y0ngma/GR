@@ -44,7 +44,7 @@ gegen A|sich wenden|ich **wende mich gegen** die falschen Vorwürfe[reproach비�
 
 1|2|3|4
 ---|---|---|---
-in D|sich irren|Er hat sich im Datum **geirrt**|착각하다
+in D|sich irren|Er hat sich im Datum **geirrt**|착각하다<br>to stray<br>to err [to act with bias]
 mit D|verwechseln A|Ich habe sie mit ihrer Schwester **verwechselt**|혼돈하다
 mit D|sich befassen|Wir haben **uns** lange mit diesem Thema **befasst**|~을 주제로 다루다
 mit D|handeln|Mein Freund **handelt** mit Gebrauchtwagen|~을 판매하다
